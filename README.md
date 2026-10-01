@@ -43,9 +43,9 @@ Just a simple french school student who learn new competences everydays.
 
 ## Social / Contact
 
-![Static Badge](https://img.shields.io/badge/Discord-Profil-5865F2?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F1340807592141918228)
+![Static Badge](https://img.shields.io/badge/Discord-abadakor0774-5865F2?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F1340807592141918228)
 
-![Static Badge](https://img.shields.io/badge/Telegram-Profil-26A5E4?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fhecker1825)
+![Static Badge](https://img.shields.io/badge/Telegram-@hecker1825-26A5E4?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fhecker1825)
 
 ![Static Badge](https://img.shields.io/badge/EMail-mullerarsene.pro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&link=https%3A%2F%2Ft.me%2Fhecker1825)
 
